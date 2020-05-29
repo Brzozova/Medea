@@ -11,4 +11,7 @@ Core functionalities:
  - Chcek if backup was complited or not.
  - Send notification to Slack channel if backup failed.
 
-
+To be done:
+ - Integration with Slack
+ - Checking if backup was successfull after specific timestamp for every server (with custom backup settings)
+ - Code refactoring
